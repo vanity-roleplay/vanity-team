@@ -1,1 +1,2 @@
-# vanity-team
+# Vanity Team
+Welcome to Vanity Project
